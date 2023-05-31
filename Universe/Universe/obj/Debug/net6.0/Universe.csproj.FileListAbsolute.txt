@@ -1,0 +1,15 @@
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\bin\Debug\net6.0\Universe.exe
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\bin\Debug\net6.0\Universe.deps.json
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\bin\Debug\net6.0\Universe.runtimeconfig.json
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\bin\Debug\net6.0\Universe.dll
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\bin\Debug\net6.0\Universe.pdb
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.csproj.AssemblyReference.cache
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.AssemblyInfoInputs.cache
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.AssemblyInfo.cs
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.csproj.CoreCompileInputs.cache
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.dll
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\refint\Universe.dll
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.pdb
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\Universe.genruntimeconfig.cache
+C:\Users\Chupapimunyanya\source\repos\Game\Universe\Universe\obj\Debug\net6.0\ref\Universe.dll

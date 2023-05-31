@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TFyq2XFyJX60JRfw7s+ad3tbnIw3DpZQeK61e9RwaBtmL7YOhvZe3REJInJ3P4CZkL/1WnE6H4vTXS0i421vA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chupapimunyanya\\source\\repos\\Game\\Universe\\Universe\\Universe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chupapimunyanya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Chupapimunyanya\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Chupapimunyanya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Chupapimunyanya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
